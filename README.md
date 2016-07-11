@@ -1,2 +1,52 @@
-# 2016web1
-WEBプログラミングⅠの課題の集約ページ
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>WEBプログラミングⅠの課題の集約/title>
+  </head>
+  <body>
+    <section>
+    <ul>
+      <li>< a href=https://1427019.github.io/2016web1/>1427019(1427019)</a></li>
+      <li>< a href=https://ikeda-motoumi.github.io/2016web1/>ikeda-motoumi(1527006)</a></li>
+      <li>< a href=https://botamoti.github.io/2016web1/>botamoti(1527007)</a></li>
+      <li>< a href=https://kanakoiso.github.io/2016web1/>kanakoiso(1527008)</a></li>
+      <li>< a href=https://takuya-ichihara.github.io/2016web1/>takuya-ichihara(1527010)</a></li>
+      <li>< a href=https://o-shun.github.io/2016web1/>o-shun(1527013)</a></li>
+      <li>< a href=https://bashiii11.github.io/2016web1/>bashiii11(1527014)</a></li>
+      <li>< a href=https://makoto-okamoto.github.io/2016web1/>makoto-okamoto(1527017)</a></li>
+      <li>< a href=https://ntasoon1216.github.io/2016web1/>ntasoon1216(1527019)</a></li>
+      <li>< a href=https://kyu-kanami.github.io/2016web1/>kyu-kanami(1527021)</a></li>
+      <li>< a href=https://supermonkey777.github.io/2016web1/>supermonkey777(1527024)</a></li>
+      <li>< a href=https://kinoshitakazuki.github.io/2016web1/>kinoshitakazuki(1527025)</a></li>
+      <li>< a href=https://takamasa-kujirai.github.io/2016web1/>takamasa-kujirai(1527027)</a></li>
+      <li>< a href=https://nyutorino.github.io/2016web1/>nyutorino(1527033)</a></li>
+      <li>< a href=https://shunsuke-moai.github.io/2016web1/>shunsuke-moai(1527035)</a></li>
+      <li>< a href=https://g1527037.github.io/2016web1/>g1527037(1527037)</a></li>
+      <li>< a href=https://miraishinohara.github.io/2016web1/>miraishinohara(1527038)</a></li>
+      <li>< a href=https://jintan1123.github.io/2016web1/>jintan1123(1527040)</a></li>
+      <li>< a href=https://g1527042.github.io/2016web1/>g1527042(1527042)</a></li>
+      <li>< a href=https://SymYuk.github.io/2016web1/>SymYuk(1527043)</a></li>
+      <li>< a href=https://kougei-semura.github.io/2016web1/>kougei-semura(1527044)</a></li>
+      <li>< a href=https://masazi2626.github.io/2016web1/>masazi2626(1527045)</a></li>
+      <li>< a href=https://yumapiero.github.io/2016web1/>yumapiero(1527046)</a></li>
+      <li>< a href=https://yuki-takamura.github.io/2016web1/>yuki-takamura(1527047)</a></li>
+      <li>< a href=https://kougei1527050.github.io/2016web1/>kougei1527050(1527050)</a></li>
+      <li>< a href=https://DebugonSan.github.io/2016web1/>DebugonSan(1527052)</a></li>
+      <li>< a href=https://yuki0106.github.io/2016web1/>yuki0106(1527053)</a></li>
+      <li>< a href=https://XeistRia.github.io/2016web1/>XeistRia(1527054)</a></li>
+      <li>< a href=https://nisimakihiroki1205.github.io/2016web1/>nisimakihiroki1205(1527055)</a></li>
+      <li>< a href=https://hatanaka0105.github.io/2016web1/>hatanaka0105(1527058)</a></li>
+      <li>< a href=https://blacktiger00.github.io/2016web1/>blacktiger00(1527059)</a></li>
+      <li>< a href=https://g1527061.github.io/2016web1/>g1527061(1527061)</a></li>
+      <li>< a href=https://nyanko-sankaku.github.io/2016web1/>nyanko-sankaku(1527066)</a></li>
+      <li>< a href=https://mizoguchi-yuta.github.io/2016web1/>mizoguchi-yuta(1527067)</a></li>
+      <li>< a href=https://mitsuru1397.github.io/2016web1/>mitsuru1397(1527068)</a></li>
+      <li>< a href=https://rapurasusann.github.io/2016web1/>rapurasusann(1527069)</a></li>
+      <li>< a href=https://majimasyouji.github.io/2016web1/>majimasyouji(1527073)</a></li>
+      <li>< a href=https://yukito1027.github.io/2016web1/>yukito1027(1527074)</a></li>
+      <li>< a href=https://kougeiyujiro.github.io/2016web1/>kougeiyujiro(1527076)</a></li>
+      <li>< a href=https://waday1.github.io/2016web1/>waday1(1527079)</a></li>    </ul>
+    </section>
+  </body>
+</html>
