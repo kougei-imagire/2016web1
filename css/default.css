@@ -35,8 +35,8 @@ legend{ color:#000; }
 
 /* ******************************************** */
 
-body {
-    background-color: lightyellow;
+html {
+    background: lightyellow;
 }
 
 li {
