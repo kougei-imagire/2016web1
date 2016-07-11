@@ -37,11 +37,9 @@ legend{ color:#000; }
 
 li {
     margin: 5px;
-}
-
-ul {
     list-style-type: disc;
 }
+
 h1 {
     font-size: 200%;
     margin: 10px;
