@@ -36,6 +36,11 @@ legend{ color:#000; }
 /* ******************************************** */
 
 li {
-    margin-bottom: 5px;
+    margin: 5px;
 }
 
+
+h1 {
+    font-size: 200%;
+    margin: 5px;
+}
