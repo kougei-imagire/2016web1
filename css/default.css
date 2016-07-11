@@ -35,9 +35,13 @@ legend{ color:#000; }
 
 /* ******************************************** */
 
+body {
+    background-color: lightyellow;
+}
+
 li {
     margin: 5px;
-    list-style-type: disc;
+    list-style: disc;
 }
 
 h1 {
